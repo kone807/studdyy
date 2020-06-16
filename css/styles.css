@@ -1,0 +1,156 @@
+body{
+  font-family: 'Ubuntu';
+  margin-right: 0;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 3.5em;
+  line-height: 1.5;
+  margin-bottom: 50px;
+}
+h2{
+  font-family: "Montserrat";
+  line-height: 1.5;
+  font-size: 2rem;
+}
+h3{
+  font-family: "Ubuntu";
+  line-height: 1.5;
+  font-size: 2rem;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.navbar-brand{
+  font-size: 2.5em;
+}
+.navbar{
+  padding:0 0 4.5rem;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.5em;
+}
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+.feature-image{
+  font-size: 5em;
+  margin-bottom: 10%;
+  color: #e7305b;
+}
+.feature-image:hover{
+  color: #fa9191;
+  cursor: pointer;
+}
+.feature-h2{
+  font-family: "Montserrat", sans-serif;
+
+}
+.feature-p{
+  font-weight: lighter;
+  font-size: 1em;
+  color: grey;
+  width: 75%;
+  margin: auto;
+}
+.feature-div{
+  padding: 5%;
+}
+.lol{
+  width: 20%;
+  height:20%;
+  border-radius: 100%;
+  margin: 5%;
+}
+
+.carousel-item{
+  padding: 0 15%;
+}
+.indicator-bar{
+  margin-top: 20%;
+}
+.carousel-inner{
+  padding: 10% 0;
+}
+.media-image{
+  width: 15%;
+  margin: 2%;
+}
+.plan{
+  padding-top: 10%;
+  padding-bottom: 2%;
+}
+.package{
+  padding: 0 5% 0 5%;
+  width: auto;
+  margin: 0;
+}
+.card-text{
+  font-weight: lighter;
+  color: grey;
+}
+.card-title{
+  font-size: 2.5em;
+}
+.cta-h3{
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 3em;
+  line-height: 1.5;
+  margin-bottom: 50px;
+  padding: 0 5%;
+  margin: auto;
+}
+.sm{
+  margin: 1%;
+  margin-top: 10%;
+  margin-bottom: 2%;
+}
+.ending{
+  color: grey;
+  margin-bottom: 10%;
+}
+#title{
+  background-color: #e7305b;
+}
+#features{
+  /* background-color: #f4ea8e; */
+  text-align: center;
+  padding: 12% 1%;
+}
+#testimonials{
+  /* padding: 5% 15%; */
+  padding-top: 5%;
+  background-color: #fa9191;
+  /* #ffe9c5; */
+  color: white;
+  text-align: center;
+}
+#press{
+  background-color: #fa9191;
+  text-align: center;
+  padding-top: 7%;
+  padding-bottom: 3%;
+}
+#pricing{
+  text-align: center;
+  margin-right: 0;
+}
+#cta{
+  text-align: center;
+  margin-top: 6%;
+  padding: 8%;
+  background-color: #e7305b;
+}
+.phone{
+  max-width: 100%;
+  height: auto;
+}
+#footer{
+  text-align: center;
+}
